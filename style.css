@@ -1,0 +1,15 @@
+img{
+  width:20em;
+}
+
+p{
+  background-color: black;
+  color: white;
+  display:block;
+  width:18em;
+  padding:1em;
+}
+
+input{
+  width:24em;
+}
